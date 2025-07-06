@@ -1,0 +1,19 @@
+{
+  "name": "denuncia-app",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.71.7",
+    "@react-navigation/native": "^6.0.13",
+    "react-native-webview": "^11.26.0"
+  },
+  "devDependencies": {
+    "expo-cli": "^5.5.1"
+  }
+}
